@@ -12,3 +12,19 @@
   margin: 20px;
   color: brown;
 }
+
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+  font-style: normal;
+  
+}
+
+.text2 {
+  font-size: 12px;
+  line-height: 1.5;
+  margin: 10px 0;
+  font-style: italic;
+}
